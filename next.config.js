@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  basePath: '/static-pages',
   output: 'export',
   distDir: 'out',
   images: {
