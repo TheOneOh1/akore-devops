@@ -1,2 +1,3 @@
 # static-pages
-Static Site with Hugo and GitHub Pages
+
+- Static Site with made with Hugo and GitHub Pages
