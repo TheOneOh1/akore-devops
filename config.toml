@@ -1,4 +1,4 @@
-baseURL = "https://theoneoh1.github.io/static-pages"
+baseURL = "https://static-pages.github.io"
 title   = "Anand Kore"
 languageCode = "en-us"
 theme = "hello-friend-ng"
