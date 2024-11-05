@@ -158,7 +158,7 @@ export default function experience() {
                   <li key={i}>{line}</li>
                 ))}
               </ul> */}
-            <div className="text-neutral-600 dark:text-neutral-400 tabular-nums text">
+            <div className="text-neutral-600 dark:text-neutral-300 tabular-nums text">
               {project.description.map((line, i) => (
                 <p key={i}>{line}</p>
               ))}

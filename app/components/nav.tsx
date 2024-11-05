@@ -6,6 +6,7 @@ const navItems = {
   // "/blog": { name: "Blog" },
   "/projects": { name: "Projects" },
   "/experience": { name: "Experience" },
+  "/skills": { name: "Skills" },
 };
 
 export function Navbar() {
