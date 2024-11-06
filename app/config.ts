@@ -13,5 +13,5 @@ export const socialLinks = {
   instagram: "https://www.instagram.com/the.one.oh.1/",
   linkedin: "https://www.linkedin.com/in/anandkore101/",
   email: "mailto:anandkore1@gmail.com",
-  download: "/static-pages/Anand-Kore.pdf",
+  download: "/akore-devops/Anand-Kore.pdf",
 };

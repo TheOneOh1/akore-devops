@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    icon: "/static-pages/favicon.ico",
+    icon: "/akore-devops/favicon.ico",
   },
 };
 

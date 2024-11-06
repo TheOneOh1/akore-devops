@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/static-pages',
+  basePath: '/akore-devops',
   output: 'export',
   distDir: 'out',
   images: {
