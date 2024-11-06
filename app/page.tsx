@@ -26,7 +26,7 @@ export default function Page() {
         Hey there! I'm TheOneOh1, a DevOps Engineer who believes in automating everything except my coffee breaks! ☕
         </p>
         <p>
-        With 4+ years in the corporate tech world, I’ve had the privilege of diving deep into the heart of IT infrastructure, network security 🛡️, and deployment operations. I’m passionate about crafting robust CI/CD pipelines 🚀, scaling containerized environments 🐳, and optimizing cloud services ☁️ for top performance. 🚀
+        With 4+ years in the corporate tech world, I’ve had the privilege of diving deep into the heart of IT infrastructure, network security🛡️, and deployment operations. I’m passionate about crafting robust CI/CD pipelines🚀, scaling containerized🐳 environments, and optimizing cloud☁️ services for top performance.
           {/* <a
             target="_blank"
             href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
@@ -35,7 +35,7 @@ export default function Page() {
           </a> */}
         </p>
         <p>
-        My journey began with a Post Graduate Diploma in IT Infrastructure, Systems and Security, and I've been breaking and fixing things (mostly fixing!) ever since. Currently crafting DevOps magic at C-DAC (Centre for Development of Advanced Computing) since 2022
+        My journey began with a Post Graduate Diploma in IT Infrastructure, Systems and Security, and I've been breaking and fixing things (mostly fixing!) ever since. Currently crafting DevOps magic at C-DAC (Centre for Development of Advanced Computing) since 2022.
 
         </p>
         <p>
