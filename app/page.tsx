@@ -22,10 +22,11 @@ export default function Page() {
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-        Hi! My online presense is under the name TheOneOh1. I am a DevOps engineer with slight intrest in Cyber Security.
+        {/* Hi! My online presense is under the name TheOneOh1. I am a DevOps engineer with slight intrest in Cyber Security. */}
+        Hey there! I'm TheOneOh1, a DevOps Engineer who believes in automating everything except my coffee breaks! ☕
         </p>
         <p>
-        I have expertise in IT infrastructure, network security, and deployment operations. I am proficient in CI/CD pipelines, containerization, and cloud services as well.{" "}
+        With 4+ years in the corporate tech world, I’ve had the privilege of diving deep into the heart of IT infrastructure, network security 🛡️, and deployment operations. I’m passionate about crafting robust CI/CD pipelines 🚀, scaling containerized environments 🐳, and optimizing cloud services ☁️ for top performance. 🚀
           {/* <a
             target="_blank"
             href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
@@ -34,11 +35,11 @@ export default function Page() {
           </a> */}
         </p>
         <p>
-        I have total 4 years and 8 months of experience in the corporate world.
+        My journey began with a Post Graduate Diploma in IT Infrastructure, Systems and Security, and I've been breaking and fixing things (mostly fixing!) ever since. Currently crafting DevOps magic at C-DAC (Centre for Development of Advanced Computing) since 2022
 
         </p>
         <p>
-        After my Post Graduate Diploma in IT Infrastructure, Systems and Security, I joined C-DAC which is a Governement affiliated organisation, as a DevOps Engineer in 2022 and since I've been on my DevOps journey.
+        Think of me as the bridge between "it works on my machine" and "it works everywhere!" 🌉
         </p>
       </div>
     </section>
