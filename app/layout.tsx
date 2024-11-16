@@ -55,6 +55,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={cx(GeistSans.variable, GeistMono.variable)}>
       <head>
+      <script defer data-domain="theoneoh1.github.io/akore-devops" src="https://plausible.io/js/script.js"></script>
         <link
           rel="alternate"
           type="application/rss+xml"
