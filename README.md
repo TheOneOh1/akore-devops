@@ -57,7 +57,7 @@ npm run dev
 The site is configured to deploy to GitHub Pages using GitHub Actions. Simply push to the main branch, and the workflow will automatically build and deploy your site.
 
 ## Project Structure
-
+```
 ├── app/ # Next.js app directory
 │ ├── components/ # Reusable components
 │ ├── projects/ # Projects section
@@ -66,7 +66,7 @@ The site is configured to deploy to GitHub Pages using GitHub Actions. Simply pu
 │ └── config.ts # Site configuration
 ├── public/ # Static assets
 └── content/ # Blog posts and content (MDX)
-
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
