@@ -4,4 +4,6 @@ interface PlausibleFunction extends Function {
 
 interface Window {
     plausible: PlausibleFunction;
+    dataLayer: any[];
+    gtag: (...args: any[]) => void;
 }

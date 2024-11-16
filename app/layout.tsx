@@ -55,14 +55,23 @@ export default function RootLayout({
   return (
     <html lang="en" className={cx(GeistSans.variable, GeistMono.variable)}>
       <head>
-      <script defer data-domain="theoneoh1.github.io/akore-devops" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
-      <script dangerouslySetInnerHTML={{
-        __html: `
-          window.plausible = window.plausible || function() { 
-            (window.plausible.q = window.plausible.q || []).push(arguments);
-          };
-        `
-      }} />
+        <script defer data-domain="theoneoh1.github.io/akore-devops" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
+        <script dangerouslySetInnerHTML={{
+          __html: `
+            window.plausible = window.plausible || function() { 
+              (window.plausible.q = window.plausible.q || []).push(arguments);
+            };
+          `
+        }} />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-798NFLL0TB"></script>
+        <script dangerouslySetInnerHTML={{
+          __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-798NFLL0TB');
+          `
+        }} />
         <link
           rel="alternate"
           type="application/rss+xml"
