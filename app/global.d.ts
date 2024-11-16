@@ -1,4 +1,7 @@
+interface PlausibleFunction extends Function {
+    q?: any[];
+}
+
 interface Window {
-    plausible: (...args: any[]) => void;
-    q: any[]; // Add this line to declare the 'q' property
+    plausible: PlausibleFunction;
 }

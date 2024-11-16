@@ -56,9 +56,13 @@ export default function RootLayout({
     <html lang="en" className={cx(GeistSans.variable, GeistMono.variable)}>
       <head>
       <script defer data-domain="theoneoh1.github.io/akore-devops" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
-      <script>
-        window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
-        </script>
+      <script dangerouslySetInnerHTML={{
+        __html: `
+          window.plausible = window.plausible || function() { 
+            (window.plausible.q = window.plausible.q || []).push(arguments);
+          };
+        `
+      }} />
         <link
           rel="alternate"
           type="application/rss+xml"
